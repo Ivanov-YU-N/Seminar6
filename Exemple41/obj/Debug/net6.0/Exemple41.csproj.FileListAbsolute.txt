@@ -1,0 +1,15 @@
+/home/eve/Рабочий стол/Seminar6/Exemple41/bin/Debug/net6.0/Exemple41
+/home/eve/Рабочий стол/Seminar6/Exemple41/bin/Debug/net6.0/Exemple41.deps.json
+/home/eve/Рабочий стол/Seminar6/Exemple41/bin/Debug/net6.0/Exemple41.runtimeconfig.json
+/home/eve/Рабочий стол/Seminar6/Exemple41/bin/Debug/net6.0/Exemple41.dll
+/home/eve/Рабочий стол/Seminar6/Exemple41/bin/Debug/net6.0/ref/Exemple41.dll
+/home/eve/Рабочий стол/Seminar6/Exemple41/bin/Debug/net6.0/Exemple41.pdb
+/home/eve/Рабочий стол/Seminar6/Exemple41/obj/Debug/net6.0/Exemple41.csproj.AssemblyReference.cache
+/home/eve/Рабочий стол/Seminar6/Exemple41/obj/Debug/net6.0/Exemple41.GeneratedMSBuildEditorConfig.editorconfig
+/home/eve/Рабочий стол/Seminar6/Exemple41/obj/Debug/net6.0/Exemple41.AssemblyInfoInputs.cache
+/home/eve/Рабочий стол/Seminar6/Exemple41/obj/Debug/net6.0/Exemple41.AssemblyInfo.cs
+/home/eve/Рабочий стол/Seminar6/Exemple41/obj/Debug/net6.0/Exemple41.csproj.CoreCompileInputs.cache
+/home/eve/Рабочий стол/Seminar6/Exemple41/obj/Debug/net6.0/Exemple41.dll
+/home/eve/Рабочий стол/Seminar6/Exemple41/obj/Debug/net6.0/ref/Exemple41.dll
+/home/eve/Рабочий стол/Seminar6/Exemple41/obj/Debug/net6.0/Exemple41.pdb
+/home/eve/Рабочий стол/Seminar6/Exemple41/obj/Debug/net6.0/Exemple41.genruntimeconfig.cache
